@@ -2,35 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
-  @font-face {
-    font-family: 'Prata';
-    src: url('/fonts/Prata-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: "Prata";
+  src: url("/fonts/Prata-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
-  .fancy-header {
-    font-family: 'Prata', serif;
-    font-size: 4.5rem;
-    /* color: #1e4c7c; */
-    color: #1E7D71;
-    margin-bottom: 0.7rem;
-  }
-  
+.fancy-header {
+  font-family: "Prata", serif;
+  font-size: 4.5rem;
+  /* color: #1e4c7c; */
+  color: #1e7d71;
+  margin-bottom: 0.7rem;
+}
 
 body {
-    @apply text-base;
-    /* color: #1E7D71; */
-    color: #1EAB71;
+  @apply text-base;
+  /* color: #1E7D71; */
+  color: #1eab71;
 }
 
 ul {
-    padding-left: 0.7rem;
-    list-style: armenian inside;
+  padding-left: 0.7rem;
+  list-style: armenian inside;
 }
 
 ul li::marker {
-    font-weight: 200;
-    content: "> ";
-  }
+  font-weight: 200;
+  content: "> ";
+}

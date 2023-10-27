@@ -11,10 +11,10 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        base: '1.5rem',
-        xl: '1.75rem',
-      }
+        base: "1.5rem",
+        xl: "1.75rem",
+      },
     },
   },
   plugins: [],
-}
+};
