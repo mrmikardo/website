@@ -24,3 +24,13 @@ body {
     /* color: #1E7D71; */
     color: #1EAB71;
 }
+
+ul {
+    padding-left: 0.7rem;
+    list-style: armenian inside;
+}
+
+ul li::marker {
+    font-weight: 200;
+    content: "> ";
+  }
