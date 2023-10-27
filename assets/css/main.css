@@ -16,6 +16,10 @@
   /* color: #1e4c7c; */
   color: #1e7d71;
   margin-bottom: 0.7rem;
+
+  @media screen and (max-width: 768px) {
+    font-size: 3rem;
+  }
 }
 
 body {

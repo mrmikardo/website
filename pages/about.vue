@@ -2,7 +2,7 @@
   <Head>
     <Title>About | Jack Westmore</Title>
   </Head>
-  <section class="w-1/2">
+  <section class="md:w-2/3 lg:w-1/2">
     <h1 class="fancy-header">Hey.</h1>
     <p>
       I've been working with technology for around eight years now, exploring

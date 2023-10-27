@@ -2,7 +2,7 @@
   <Head>
     <Title>Home | Jack Westmore</Title>
   </Head>
-  <section class="w-1/2">
+  <section class="md:w-2/3 lg:w-1/2">
     <h1 class="fancy-header">Poetry, engineering & creative design.</h1>
     <p>
       My name is Jack. I'm a full-stack engineer, poet, and systems thinker. I

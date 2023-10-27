@@ -2,10 +2,10 @@
   <Head>
     <Title>Contact | Jack Westmore</Title>
   </Head>
-  <section class="w-1/2">
+  <section class="md:w-2/3 lg:w-1/2">
     <h1 class="fancy-header">Get in touch.</h1>
     <div class="mb-2">
-      <p>Emails are the best way to get in touch :-)</p>
+      <p>I like emails!</p>
       <ul>
         <li>
           <Anchor
