@@ -1,4 +1,7 @@
 <template>
+  <Head>
+    <Title>About | Jack Westmore</Title>
+  </Head>
   <section class="w-1/2">
     <h1 class="fancy-header">Hey.</h1>
     <p>

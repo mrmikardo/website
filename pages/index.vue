@@ -1,4 +1,7 @@
 <template>
+  <Head>
+    <Title>Home | Jack Westmore</Title>
+  </Head>
   <section class="w-1/2">
     <h1 class="fancy-header">Poetry, engineering & creative design.</h1>
     <p>
