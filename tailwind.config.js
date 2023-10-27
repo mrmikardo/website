@@ -9,7 +9,12 @@ module.exports = {
     "./error.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontSize: {
+        base: '1.5rem',
+        xl: '1.75rem',
+      }
+    },
   },
   plugins: [],
 }

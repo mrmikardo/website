@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+  @font-face {
+    font-family: 'Prata';
+    src: url('/fonts/Prata-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  .fancy-header {
+    font-family: 'Prata', serif;
+    font-size: 4.5rem;
+    /* color: #1e4c7c; */
+    color: #1E7D71;
+    margin-bottom: 0.7rem;
+  }
+  
+
+body {
+    @apply text-base;
+    /* color: #1E7D71; */
+    color: #1EAB71;
+}
