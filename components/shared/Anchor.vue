@@ -1,12 +1,11 @@
+
 <script setup>
-import Anchor from '../shared/Anchor.vue'
+const props = defineProps(['href', 'text', 'isExternal'])
 </script>
 
 <template>
-  <div class="h-full items-center flex gap-4 italic">
-    <Anchor href="/about" text="about" />
-    <Anchor href="/contact" text="contact" />
-  </div>
+    <a v-if="isExternal" :href="href">{{ text }}</a>
+    <NuxtLink v-else :to="href">{{ text }}</NuxtLink>
 </template>
 
 <style scoped>
