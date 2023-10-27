@@ -1,9 +1,9 @@
 <template>
   <div class="grid grid-cols-7">
     <div class="p-3">
-      <a href="/">
+      <NuxtLink to="/">
       <img src="/img/concorde.png" alt="Concorde" />
-      </a>
+      </NuxtLink>
     </div>
     <div class="col-span-6 pl-8">
       <Navbar />
