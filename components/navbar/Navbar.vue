@@ -1,8 +1,3 @@
-<script setup>
-import { ref } from 'vue'
-const count = ref(0)
-</script>
-
 <template>
   <div class="h-full items-center flex gap-4 italic">
     <a href="/about">about</a>
