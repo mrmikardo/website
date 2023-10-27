@@ -8,7 +8,7 @@
       </ul>
       </div>
       <div class="my-4">
-      <p>If you're interested specifically in my poetry:</p>
+      <p>If you're interested in my poetry:</p>
       <ul>
         <li><Anchor is-external="true" href="https://mrmikardo.substack.com/" text="check out my newsletter" /></li>
       </ul>
@@ -19,6 +19,8 @@
         <li><Anchor is-external="true" href="https://www.linkedin.com/in/jackwestmore/" text="linkedin" /></li>
         <li><Anchor is-external="true" href="https://github.com/mrmikardo" text="github" /></li>
         <li><Anchor is-external="true" href="https://twitter.com/93odradek" text="twitter" /></li>
+        <li><Anchor is-external="true" href="https://www.goodreads.com/user/show/46169885-jack" text="goodreads" /></li>
+        <li><Anchor is-external="true" href="https://letterboxd.com/mrmikardo/" text="letterboxd" /></li>
       </ul>
       </div>
     </section>
