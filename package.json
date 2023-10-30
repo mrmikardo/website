@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/gtm": "^2.4.0",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
