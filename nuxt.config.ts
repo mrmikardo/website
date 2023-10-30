@@ -20,9 +20,4 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ["@nuxtjs/gtm"],
-  gtm: {
-    id: "GTM-NPMS73HG",
-    pageTracking: true,
-  },
 });
