@@ -22,6 +22,6 @@ export default defineNuxtConfig({
   },
   modules: ["nuxt-gtag"],
   gtag: {
-    id: 'GTM-NPMS73HG'
-  }
+    id: "G-R73N9FEK07",
+  },
 });
