@@ -20,4 +20,8 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  modules: ["nuxt-gtag"],
+  gtag: {
+    id: 'GTM-NPMS73HG'
+  }
 });
