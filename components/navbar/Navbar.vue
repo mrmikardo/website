@@ -8,5 +8,6 @@ import Anchor from "../shared/Anchor.vue";
   >
     <Anchor href="/about" text="about" />
     <Anchor href="/contact" text="contact" />
+    <Anchor href="/projects" text="projects" />
   </div>
 </template>
